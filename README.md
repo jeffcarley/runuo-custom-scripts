@@ -70,9 +70,4 @@ Easy way to show your players who is officially a staff member
 
 ## Some Links ##
 
-RunUO Homepage: [http://runuo.com](http://www.runuo.com/)<br/>
-My RunUO Profile: [Felladrin](http://www.runuo.com/community/members/felladrin.136025/)
-
-If you like my scripts, please consider flattring this repository :)
-
-[![Flattr this repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Felladrin&url=https%3A%2F%2Fgithub.com%2Ffelladrin%2Frunuo-custom-scripts)
+RunUO Homepage: [http://runuo.net](http://www.runuo.net/)<br/>
